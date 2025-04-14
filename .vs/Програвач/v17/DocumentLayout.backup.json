@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\Song.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|solutionrelative:Song.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\Song.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|solutionrelative:Song.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\main.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|solutionrelative:main.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\Playlist.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|solutionrelative:Playlist.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\Song.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|solutionrelative:Song.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\Song.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|solutionrelative:Song.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,95 +38,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\main.cpp*",
-              "RelativeToolTip": "main.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-22T14:04:08.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MusicPlayer.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\MusicPlayer.cpp",
-              "RelativeDocumentMoniker": "MusicPlayer.cpp",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\MusicPlayer.cpp*",
-              "RelativeToolTip": "MusicPlayer.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-22T14:04:08.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MusicPlayer.h",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\MusicPlayer.h",
-              "RelativeDocumentMoniker": "MusicPlayer.h",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\MusicPlayer.h*",
-              "RelativeToolTip": "MusicPlayer.h*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-22T14:04:08.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T14:04:08.526Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Playlist.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\Playlist.cpp",
-              "RelativeDocumentMoniker": "Playlist.cpp",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\Playlist.cpp*",
-              "RelativeToolTip": "Playlist.cpp*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
+              "Title": "MusicPlayer.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\MusicPlayer.cpp",
+              "RelativeDocumentMoniker": "MusicPlayer.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\MusicPlayer.cpp",
+              "RelativeToolTip": "MusicPlayer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-22T14:04:08.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T14:04:08.477Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Playlist.h",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\Playlist.h",
-              "RelativeDocumentMoniker": "Playlist.h",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\Playlist.h*",
-              "RelativeToolTip": "Playlist.h*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Title": "MusicPlayer.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\MusicPlayer.h",
+              "RelativeDocumentMoniker": "MusicPlayer.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\MusicPlayer.h",
+              "RelativeToolTip": "MusicPlayer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-22T14:04:08.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T14:04:08.324Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Playlist.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\Playlist.cpp",
+              "RelativeDocumentMoniker": "Playlist.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\Playlist.cpp",
+              "RelativeToolTip": "Playlist.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T14:04:08.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Playlist.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\Playlist.h",
+              "RelativeDocumentMoniker": "Playlist.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\Playlist.h",
+              "RelativeToolTip": "Playlist.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-22T14:04:08.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Song.cpp",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\Song.cpp",
               "RelativeDocumentMoniker": "Song.cpp",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\Song.cpp*",
-              "RelativeToolTip": "Song.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\Song.cpp",
+              "RelativeToolTip": "Song.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-22T14:04:08.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Song.h",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\Song.h",
               "RelativeDocumentMoniker": "Song.h",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\Song.h*",
-              "RelativeToolTip": "Song.h*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0430\u0447\\Song.h",
+              "RelativeToolTip": "Song.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-22T14:04:07.835Z",
               "EditorCaption": ""
