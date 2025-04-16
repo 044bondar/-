@@ -5,10 +5,10 @@ MusicPlayer::MusicPlayer() : playlist(Playlist()) {}
 MusicPlayer::MusicPlayer(Playlist pl) : playlist(pl) {}
 
 MusicPlayer::~MusicPlayer() {
-    std::cout << "MusicPlayer object destroyed." << std::endl;
+    std::cout << "MusicPlayer destroyed.\n";
 }
 
 void MusicPlayer::play() const {
-    std::cout << "Now playing: " << std::endl;
+    std::cout << "Now playing:\n";
     playlist.display();
 }

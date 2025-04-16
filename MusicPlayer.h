@@ -6,9 +6,12 @@
 class MusicPlayer {
 private:
     Playlist playlist;
+
 public:
     MusicPlayer();
     MusicPlayer(Playlist pl);
     ~MusicPlayer();
     void play() const;
 };
+
+#endif
